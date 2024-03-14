@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://portfolio-lucas-tamagnone.iosbrasil.dev" target="_blank">
+    <img src="https://www.svgrepo.com/show/249788/web-online.svg" width="68" height="40" alt="portfolio logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/lucastamagnone/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
   </a>
